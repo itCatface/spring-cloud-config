@@ -1,5 +1,5 @@
 data:
-  env: devdevdevdev
+  env: dev
   user:
     username: catface
     password: root
